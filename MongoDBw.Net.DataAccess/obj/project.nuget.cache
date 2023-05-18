@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8L+aIZ+gwbromqg3DrQxv9/h0/1nPAIh0Mk4ai0qu5wgzClqD6eqtoS3PfjliKv2eNcvCx4/XuTWlJncJeQJhg==",
+  "dgSpecHash": "8IHMkJwqkSltV15ESa18DWjjDsIm8LW4Gvjx1sWO0oEk3QV72tyCzfNKmF5KLVKJtmw07qMky+OCiFftYN33SA==",
   "success": true,
   "projectFilePath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.DataAccess\\MongoDBw.Net.DataAccess.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\umutu\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

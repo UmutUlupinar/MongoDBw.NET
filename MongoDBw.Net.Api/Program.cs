@@ -1,3 +1,5 @@
+using MongoDBw.Net.DataAccess.Repository.GenericRepository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +8,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped(typeof(IBaseMongoDBRepository<>), typeof(BaseMongoDBRepository<>));
 
 var app = builder.Build();
 

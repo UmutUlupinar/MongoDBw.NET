@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "FNM82KLkQl6Jb8ok2owb78Xl+KisTmrv3jsqxqmoIz/XJ7MHFhDaQrMLej1gFWTZhly6g1Ucp85Zh6zs68U0Zg==",
+  "dgSpecHash": "pkn0Fzj8GTLMp6VxVapU1BkkRy6mvY/lf3yo9LQ2xHdGhf0xCFQB0TTnbsG2DY00Nk6YkYYNo4KS1tMCRWrE7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.Api\\MongoDBw.Net.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\umutu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\umutu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
     "C:\\Users\\umutu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\umutu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\umutu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\umutu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\umutu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\umutu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

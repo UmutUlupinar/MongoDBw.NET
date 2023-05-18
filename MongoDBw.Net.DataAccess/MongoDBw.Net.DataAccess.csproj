@@ -7,8 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Entity" />
-      <Folder Include="Repository" />
+      <PackageReference Include="MongoDB.Bson" Version="2.19.1" />
     </ItemGroup>
 
 </Project>
