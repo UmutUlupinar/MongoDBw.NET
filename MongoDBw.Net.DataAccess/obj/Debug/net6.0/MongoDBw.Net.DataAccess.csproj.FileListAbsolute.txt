@@ -1,0 +1,12 @@
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\bin\Debug\net6.0\MongoDBw.Net.DataAccess.deps.json
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\bin\Debug\net6.0\MongoDBw.Net.DataAccess.dll
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\bin\Debug\net6.0\MongoDBw.Net.DataAccess.pdb
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.csproj.AssemblyReference.cache
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.AssemblyInfoInputs.cache
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.AssemblyInfo.cs
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.dll
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\refint\MongoDBw.Net.DataAccess.dll
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\MongoDBw.Net.DataAccess.pdb
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.DataAccess\obj\Debug\net6.0\ref\MongoDBw.Net.DataAccess.dll

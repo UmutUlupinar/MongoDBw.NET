@@ -1,0 +1,12 @@
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\bin\Debug\net6.0\MongoDBw.Net.Service.deps.json
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\bin\Debug\net6.0\MongoDBw.Net.Service.dll
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\bin\Debug\net6.0\MongoDBw.Net.Service.pdb
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.csproj.AssemblyReference.cache
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.AssemblyInfoInputs.cache
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.AssemblyInfo.cs
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.csproj.CoreCompileInputs.cache
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.dll
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\refint\MongoDBw.Net.Service.dll
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\MongoDBw.Net.Service.pdb
+C:\Users\umutu\RiderProjects\MongoDBw.NET\MongoDBw.Net.Service\obj\Debug\net6.0\ref\MongoDBw.Net.Service.dll

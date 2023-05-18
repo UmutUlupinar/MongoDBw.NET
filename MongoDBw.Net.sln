@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBw.Net.DataAccess", "MongoDBw.Net.DataAccess\MongoDBw.Net.DataAccess.csproj", "{4A8381AD-ADCD-43E8-A8DC-9B605F6152FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBw.Net.Service", "MongoDBw.Net.Service\MongoDBw.Net.Service.csproj", "{A5620398-C1AD-427B-AF85-AE7135D513AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBw.Net.Api", "MongoDBw.Net.Api\MongoDBw.Net.Api.csproj", "{B46D322F-5DB9-4DE7-8870-38F3189CB4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8381AD-ADCD-43E8-A8DC-9B605F6152FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8381AD-ADCD-43E8-A8DC-9B605F6152FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8381AD-ADCD-43E8-A8DC-9B605F6152FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8381AD-ADCD-43E8-A8DC-9B605F6152FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5620398-C1AD-427B-AF85-AE7135D513AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5620398-C1AD-427B-AF85-AE7135D513AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5620398-C1AD-427B-AF85-AE7135D513AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5620398-C1AD-427B-AF85-AE7135D513AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46D322F-5DB9-4DE7-8870-38F3189CB4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46D322F-5DB9-4DE7-8870-38F3189CB4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46D322F-5DB9-4DE7-8870-38F3189CB4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46D322F-5DB9-4DE7-8870-38F3189CB4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

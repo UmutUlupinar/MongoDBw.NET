@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sM9+DZHxfzaa6SfA0nm5M2I5VvGBybWJHbfeAqCnWBM=",
+  "Source": "MongoDBw.Net.Api",
+  "BasePath": "_content/MongoDBw.Net.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
