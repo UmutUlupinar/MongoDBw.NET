@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj": {}
+    "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj": {
+    "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj",
+        "projectUniqueName": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj",
         "projectName": "MongoDBw.Net.Service",
-        "projectPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj",
+        "projectPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.Service\\MongoDBw.Net.Service.csproj",
         "packagesPath": "C:\\Users\\umutu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.Service\\obj\\",
+        "outputPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\umutu\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.DataAccess\\MongoDBw.Net.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.DataAccess\\MongoDBw.Net.DataAccess.csproj",
       "projectName": "MongoDBw.Net.DataAccess",
-      "projectPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.DataAccess\\MongoDBw.Net.DataAccess.csproj",
+      "projectPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.DataAccess\\MongoDBw.Net.DataAccess.csproj",
       "packagesPath": "C:\\Users\\umutu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.NET\\MongoDBw.Net.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\umutu\\RiderProjects\\MongoDBw.Net\\MongoDBw.Net.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\umutu\\AppData\\Roaming\\NuGet\\NuGet.Config"
